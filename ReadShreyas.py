@@ -1,4 +1,4 @@
-gedFile = open("D:/Stevens/3rd Sem/Agile/Assignments/Project02/Shreyas.ged","r")
+gedFile = open("D:/Stevens/3rd Sem/Agile/Assignments/Project02/proj02test.ged","r")
 
 #List for Level 0 tags
 level0tags = ["HEAD","TRLR","NOTE"] 
